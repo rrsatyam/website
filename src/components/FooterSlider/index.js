@@ -24,7 +24,7 @@ const FooterSlider = () => {
         <div className="mt-[80px]">
             <div className="flex flex-col justify-center items-center space-y-2 mt-6">
                 <h1 className="block text-2xl lg:text-[36px]">Follow Instagram</h1>
-                <p className="text-[#636363] text-md lg:text-[16px] font-normal ">@Alime_photographer</p>
+                <p className="text-[#636363] text-md lg:text-[16px] font-normal ">@satyamphoto_surat</p>
             </div>
             <div className="mt-[50px] w-full overflow-x-hidden ">
                 <div className="sm:hidden">
@@ -34,7 +34,7 @@ const FooterSlider = () => {
                                 <img src={val.image} alt="data" className="w-full transition-all ease-in-out duration-1000" />
                                 <div className="layer hidden bg-red-400 bg-opacity-80 absolute inset-0 space-y-3 transition-all ease-in-out duration-500">
                                     <InstagramIcon fontSize="large" className="text-[--white-color] cursor-pointer" />
-                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">Alime_photographer</h1>
+                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">satyamphoto_surat</h1>
                                 </div>
                             </div>
                         ))}
@@ -47,7 +47,7 @@ const FooterSlider = () => {
                                 <img src={val.image} alt="data" className="w-full transition-all ease-in-out duration-1000" />
                                 <div className="layer hidden bg-red-400 bg-opacity-80 absolute inset-0 space-y-3 transition-all ease-in-out duration-500">
                                     <InstagramIcon fontSize="large" className="text-[--white-color] cursor-pointer" />
-                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">Alime_photographer</h1>
+                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">satyamphoto_surat</h1>
                                 </div>
                             </div>
                         ))}
@@ -60,7 +60,7 @@ const FooterSlider = () => {
                                 <img src={val.image} alt="data" className="w-full transition-all ease-in-out duration-1000" />
                                 <div className="layer hidden bg-red-400 bg-opacity-80 absolute inset-0 space-y-3 transition-all ease-in-out duration-500">
                                     <InstagramIcon fontSize="large" className="text-[--white-color] cursor-pointer" />
-                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">Alime_photographer</h1>
+                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">satyamphoto_surat</h1>
                                 </div>
                             </div>
                         ))}
@@ -73,7 +73,7 @@ const FooterSlider = () => {
                                 <img src={val.image} alt="data" className="w-full transition-all ease-in-out duration-1000" />
                                 <div className="layer hidden bg-red-400 bg-opacity-80 absolute inset-0 space-y-3 transition-all ease-in-out duration-500">
                                     <InstagramIcon fontSize="large" className="text-[--white-color] cursor-pointer" />
-                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">Alime_photographer</h1>
+                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">satyamphoto_surat</h1>
                                 </div>
                             </div>
                         ))}
@@ -86,7 +86,7 @@ const FooterSlider = () => {
                                 <img src={val.image} alt="data" className="w-full transition-all ease-in-out duration-1000" />
                                 <div className="layer hidden bg-red-400 bg-opacity-80 absolute inset-0 space-y-3 transition-all ease-in-out duration-500">
                                     <InstagramIcon fontSize="large" className="text-[--white-color] cursor-pointer" />
-                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">Alime_photographer</h1>
+                                    <h1 className="text-[--white-color] text-[14px] cursor-pointer">satyamphoto_surat</h1>
                                 </div>
                             </div>
                         ))}

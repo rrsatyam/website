@@ -10,10 +10,10 @@ const Footer = () => {
     return (
         <div className="py-[10px] !lg:py-[20px] px-[20px] md:px-[50px]">
             <div className="flex items-center justify-between lg:px-[50px]">
-                <h1 className="text-[13px] font-normal lg:text-[16px]">Copyright © {currentYear} All rights reserved | This template is made with  by <span className="!text-[--theme-red-color]">Colorlib</span></h1>
-                <div className='hidden sm:flex justify-center items-center sm:w-[50px] sm:h-[30px] lg:w-[70px] lg:h-[20px]'>
-                    <img src="/images/core-img/logo2.png" alt="logo" className='w-[100%] h-[100%] object-contain' />
-                </div>
+                <h1 className="text-[13px] font-normal lg:text-[16px]">Copyright © {currentYear} All rights reserved.</h1>
+                {/* <div className='hidden sm:flex justify-center items-center sm:w-[50px] sm:h-[30px] lg:w-[70px] lg:h-[20px]'>
+                    <img src="/images/core-img/logo.png" alt="logo" className='w-[100%] h-[100%] object-contain' />
+                </div> */}
                 <div className="sm:space-x-2">
                     <FacebookIcon className="text-[20px]" />
                     <TwitterIcon className="text-[20px]" />
