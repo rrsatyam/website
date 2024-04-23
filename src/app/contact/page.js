@@ -31,8 +31,8 @@ const Contact = () => {
                   Visit Us
                 </p>
                 <h1>
-                  Sector3, Bhaktinandan Society, near Abc Circle, Sudama Chowk,
-                  Mota Varachha, Surat, Gujarat 394101
+                  14 Bhaktinandan society Sector3 near by ABC circle Shree hari
+                  hospital ni same Mota varachha surat
                 </h1>
               </div>
               <div className="space-y-3">
